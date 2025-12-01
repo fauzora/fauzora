@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SFMono-Regular&weight=700&duration=2000&pause=1000&color=6CB6FF&center=true&vCenter=true&repeat=true&width=846&lines=Welcome+To+My+Profile%2C+General!;What+are+you+doing+here%3F;Dont+forget+to+commit+before+you+sleep...;Oh%2C+i+forgot%2C+you+have+never+sleep+before+haha)](https://git.io/typing-svg)
+
 ```console
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
 │ root@github: ~/profile                                                                     ─ □ x │
@@ -11,9 +13,6 @@
 |            ░██        ░██   ░██  ░██   ░███  ░███      ░██    ░██ ░██      ░██   ░██             |
 |            ░██         ░█████░██  ░█████░██ ░█████████  ░███████  ░██       ░█████░██            |
 |                                                                                                  |
-|                                                                                                  |
-|                                                                                                  |
-│                                                                                                  │
 │              [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% SYSTEM LOADED             │
 │                                                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
@@ -98,8 +97,11 @@
 │  Fetching data from api.github.com...                                                            │
 │  [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%                                       │
 │                                                                                                  │
-|  ![Python]                                                                                       │
-|  ![JavaScript]                                                                                   |
+|  [] Frontend: Nuxt.js, Vue.js, SCSS, JavaScript (ES6+)
+|  [] Backend: Python, FastAPI, PostgreSQL, Redis, MinIO S3
+|  [] DevOps: Docker, PM2, Nginx, Ubuntu
+|  [] Architecture: REST API, SSR, SPA, WebSocket
+|  [] Tools: Git, GitLab, OpenProject, Agile/Scrum
 │                                                                                                  │
 │  [✓] Stats retrieved successfully                                                                │
 │                                                                                                  │
