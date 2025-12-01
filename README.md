@@ -139,7 +139,7 @@
 
 # Stats
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=fauzora&cc=&tc=006AFF&ic=006AFF&bc=transparent"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=fauzora&cc=00000000&tc=006AFF&ic=006AFF&bc=00000000"/>
 </p>
 
 <p align="center">
