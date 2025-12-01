@@ -133,19 +133,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fauzora&label=Visitors&color=6CB6FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=fauzora&label=Visitors&color=006AFF&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/fauzora?style=for-the-badge&color=yellow" />
 </p>
 
 # Stats
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=fauzora"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=fauzora&cc=&tc=006AFF&ic=006AFF&bc=transparent"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fauzora"/>
+  <img src="https://streak-stats.demolab.com?user=fauzora&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fauzora&theme=onedark&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fauzora&column=5&margin-w=15&margin-h=25&no-bg=true&no-frame=true"/>
 </p>
