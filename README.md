@@ -1,24 +1,39 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SFMono-Regular&weight=700&duration=2000&pause=1000&color=6CB6FF&center=true&vCenter=true&repeat=true&width=846&lines=Welcome+To+My+Profile%2C+General!;What+are+you+doing+here%3F;Dont+forget+to+commit+before+you+sleep...;Oh%2C+i+forgot%2C+you+have+never+sleep+before+haha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SFMono-Regular&weight=700&duration=2000&pause=1000&color=6CB6FF&center=true&vCenter=true&repeat=true&width=846&lines=Welcome+To+My+Profile%2C+General!;Initializing+System...;Loading+Developer+Modules...;Always+Commit+Before+You+Sleep.)](https://git.io/typing-svg)
 
 ```console
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ root@github: ~/profile                                                                     ─ □ x │
+│ root@github: ~/fauzora_profile                                                             ─ □ x │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                                  │
-|            ░██████████                                                                           |
-|            ░██                                                                                   |
-|            ░██         ░██████   ░██    ░██ ░█████████  ░███████  ░██░████  ░██████              |
-|            ░█████████       ░██  ░██    ░██      ░███  ░██    ░██ ░███           ░██             |
-|            ░██         ░███████  ░██    ░██    ░███    ░██    ░██ ░██       ░███████             |
-|            ░██        ░██   ░██  ░██   ░███  ░███      ░██    ░██ ░██      ░██   ░██             |
-|            ░██         ░█████░██  ░█████░██ ░█████████  ░███████  ░██       ░█████░██            |
-|                                                                                                  |
-│              [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% SYSTEM LOADED             │
+│            ░██████████                                                                           │
+│            ░██                                                                                   │
+│            ░██         ░██████   ░██    ░██ ░█████████  ░███████  ░██░████  ░██████              │
+│            ░█████████       ░██  ░██    ░██      ░███  ░██    ░██ ░███           ░██             │
+│            ░██         ░███████  ░██    ░██    ░███    ░██    ░██ ░██       ░███████             │
+│            ░██        ░██   ░██  ░██   ░███  ░███      ░██    ░██ ░██      ░██   ░██             │
+│            ░██         ░█████░██  ░█████░██ ░█████████  ░███████  ░██       ░█████░██            │
+│                                                                                                  │
+│                        [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% SYSTEM LOADED                   │
+│                                                                                                  │
+├──────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ root@system:~$ run summary_generator                                                             │
+├──────────────────────────────────────────────────────────────────────────────────────────────────┤
+│  Generating short profile summary...                                                             │
+│  > Reading skills.bin...                                                                         │
+│  > Analyzing developer traits...                                                                 │
+│  > Compiling output...                                                                           │
+│                                                                                                  │
+│  SUMMARY:                                                                                        │
+│     "Full-stack engineer with strong frontend specialization.                                    │
+│      Experienced in modern web tech, system design, and                                          │
+│      deploying scalable services. Passionate about building                                      │
+│      clean architectures, data-driven UX, and high-impact tools."                                │
+│                                                                                                  │
+│  [✓] Summary generated successfully                                                              │
 │                                                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ root@system:~$ neofetch                                                                          │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                  │
 │                                -`                     root@system                                │
 │                               .o+`                    ─────────────────────                      │
 │                              `ooo/                    OS: Arch Linux x86_64                      │
@@ -28,132 +43,109 @@
 │                          `/:-:++oooo+:                Packages: npm, pip, cargo                  │
 │                         `/++++/+++++++:               Shell: zsh 5.9                             │
 │                        `/++++++++++++++:              Terminal: kitty                            │
-│                       `/+++ooooooooooooo/`            Theme: Dracula [GTK2/3]                    │
+│                       `/+++ooooooooooooo/`            Theme: Dracula                             │
 │                      ./ooosssso++osssssso+`           Icons: Papirus-Dark                        │
 │                     .oossssso-````/ossssss+`          CPU: Ryzen 9 7950X                         │
 │                    -osssssso.      :ssssssso.         Memory: ████████░░ 80%                     │
-│                   :osssssss/        osssso+++.                                                   │
-│                  /ossssssss/        +ssssooo/-        ██ ██ ██ ██ ██ ██ ██ ██                    │
-│                `/ossssso+/:-        -:/+osssso+-                                                 │
-│               `+sso+:-`                 `.-/+oso:                                                │
-│              `++:.                           `-/+/                                               │
-│              .`                                 `/                                               │
 │                                                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ root@system:~$ cat /etc/identity.conf                                                            │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                  │
-│  # ══════════════════════════════════════════════════════════════════════════════════════════    │
-│  # SYSTEM IDENTITY CONFIGURATION                                                                 │
-│  # ══════════════════════════════════════════════════════════════════════════════════════════    │
-│                                                                                                  │
 │  [user]                                                                                          │
 │      alias           = fauzora                                                                   │
 │      class           = Full-Stack Developer                                                      │
-│      title           = Digital Architect                                                         │
-│                                                                                                  │
-│  [network]                                                                                       │
-│      location        = 127.0.0.1                                                                 │
-│      status          = ONLINE                                                                    │
-│      ping            = <1ms                                                                      │
-│                                                                                                  │
-│  [runtime]                                                                                       │
-│      current_task    = "Building the future, one commit at a time"                               │
-│      mood            = caffeinated && productive                                                 │
-│      coffee_level    = ████████░░ 80%                                                            │
+│      speciality      = Frontend-Oriented Architect                                               │
 │                                                                                                  │
 │  [interests]                                                                                     │
 │      0 = "Open Source"                                                                           │
-│      1 = "Cybersecurity"                                                                         │
-│      2 = "AI/ML"                                                                                 │
-│      3 = "Web3"                                                                                  │
+│      1 = "AI/ML"                                                                                 │
+│      2 = "Cybersecurity"                                                                         │
+│      3 = "System Design"                                                                         │
 │      4 = "Linux Ricing"                                                                          │
 │                                                                                                  │
-│  [warning]                                                                                       │
-│      note = "I mass-produce bugs at night ⚠️"                                                    │
+│  [runtime]                                                                                       │
+│      mood            = caffeinated && productive                                                 │
+│      coffee_level    = ████████░░ 80%                                                            │
 │                                                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ root@system:~$ ls -la ./skills/                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                                  │
-│  drwxr-xr-x  languages/                                                                          │
-│  drwxr-xr-x  frameworks/                                                                         │
+│  drwxr-xr-x  frontend/                                                                           │
+│  drwxr-xr-x  backend/                                                                            │
+│  drwxr-xr-x  devops/                                                                             │
+│  drwxr-xr-x  visualization/                                                                      │
 │  drwxr-xr-x  tools/                                                                              │
-│  drwxr-xr-x  databases/                                                                          │
 │  -rwxr-xr-x  run_skills.exe*                                                                     │
 │                                                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ root@system:~/skills$ ./run_skills.exe --list-all                                                │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-|  ![Python]                                                                                       │
-|  ![JavaScript]                                                                                   │
-|                                                                                                  │
-│  [✓] Skills loaded successfully (15 modules)                                                     │
+│  FRONTEND:                                                                                       │
+│      - Vue.js, Nuxt.js, Vuetify                                                                  │
+│      - SCSS, Bootstrap                                                                           │
+│      - JavaScript (ES6+)                                                                         │
 │                                                                                                  │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ root@system:~$ ./fetch_github_stats.sh --user fauzora                                            │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
+│  BACKEND:                                                                                        │
+│      - Python, FastAPI                                                                           │
+│      - PostgreSQL, Redis, MinIO S3                                                               │
 │                                                                                                  │
-│  Fetching data from api.github.com...                                                            │
-│  [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%                                       │
+│  DEVOPS:                                                                                         │
+│      - Docker, Nginx, PM2, Ubuntu                                                                │
 │                                                                                                  │
-|  [] Frontend: Nuxt.js, Vue.js, SCSS, JavaScript (ES6+)
-|  [] Backend: Python, FastAPI, PostgreSQL, Redis, MinIO S3
-|  [] DevOps: Docker, PM2, Nginx, Ubuntu
-|  [] Architecture: REST API, SSR, SPA, WebSocket
-|  [] Tools: Git, GitLab, OpenProject, Agile/Scrum
+│  DATA & VISUALIZATION:                                                                           │
+│      - ECharts, Highcharts, Ogma                                                                 │
+│      - Mapbox, Leaflet                                                                           │
 │                                                                                                  │
-│  [✓] Stats retrieved successfully                                                                │
+│  WORKFLOW:                                                                                       │
+│      - Git, GitLab, OpenProject, Agile/Scrum                                                     │
 │                                                                                                  │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ root@system:~$ cat /etc/network/connections.conf                                                 │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                  │
-│  # ══════════════════════════════════════════════════════════════════════════                    │
-│  #                       NETWORK CONNECTIONS                                                     │
-│  # ══════════════════════════════════════════════════════════════════════════                    │
-│                                                                                                  │
-│  upstream social_links {                                                                         │
-│      server linkedin.com/in/chairil-fauzi-firmansyah;                                            │
-│      server mailto:your.chairil.fauzi.f@gmail.com;                                               │
-│      server fauzora.tech;                                                                        │
-│  }                                                                                               │
-│                                                                                                  │
-│                                                                                                  │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ root@system:~$ tail -f /var/log/system.log                                                       │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                  │
-│  [2025-12-01 00:00:01] ✓ Boot sequence completed                                                 │
-│  [2025-12-01 00:00:02] ✓ User authentication successful                                          │
-│  [2025-12-01 00:00:03] ✓ Profile modules loaded                                                  │
-│  [2025-12-01 00:00:04] ✓ Network connections established                                         │
-│  [2025-12-01 00:00:05] ● Awaiting user input...                                                  │
-│                                                                                                  │
-│  [STATUS] All systems operational | PID: 1337 | MEM: 42%                                         │
+│  [✓] Skills loaded successfully                                                                  │
 │                                                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ root@system:~$ echo $MOTTO                                                                       │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                  │
-│  ╔════════════════════════════════════════════════════════════════════════════════════════════╗  │
-│  ║                                                                                            ║  │
-│  ║   "In the matrix of code, we trust."                                                       ║  │
-│  ║                                                                                            ║  │
-│  ║   > Always be shipping                                                                     ║  │
-│  ║   > Break things, fix things, learn things                                                 ║  │
-│  ║   > Coffee && Code                                                                         ║  │
-│  ║                                                                                            ║  │
-│  ╚════════════════════════════════════════════════════════════════════════════════════════════╝  │
+│  "In the matrix of code, we trust."                                                              │
+│   > Always be shipping                                                                           │
+│   > Break things, fix things, learn things                                                       │
+│   > Coffee && Code                                                                               │
 │                                                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ root@system:~$ exit                                                                              │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                  │
-│                                       CONNECTION TERMINATED                                      │
-│                                       Thanks for visiting!                                       │
-│                                                                                                  │
+│                                      CONNECTION TERMINATED                                       │
+│                                      Thanks for visiting!                                        │
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+<br/>
 
-<!-- EOF -->
+# Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/chairil-fauzi-firmansyah/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin" />
+  </a>
+  <a href="https://www.instagram.com/fauzora_ig/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+   </a>
+  <a href="https://www.fauzora.tech">
+    <img src="https://img.shields.io/badge/fauzora.tech-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fauzora&label=Visitors&color=6CB6FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/fauzora?style=for-the-badge&color=yellow" />
+</p>
+
+# Stats
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=fauzora"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fauzora"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fauzora&theme=onedark&column=3&margin-w=15&margin-h=15"/>
+</p>
