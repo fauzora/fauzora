@@ -139,13 +139,14 @@
 
 # Stats
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=fauzora&cc=00000000&tc=006AFF&ic=006AFF&bc=00000000"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=fauzora&cc=282c34&tc=e5c07b&ic=98c379&bc=282c34"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fauzora&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=fauzora&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fauzora&column=5&margin-w=15&margin-h=25&no-bg=true&no-frame=true"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=fauzora&column=5&margin-w=15&margin-h=25&no-bg=true&no-frame=true"/> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=fauzora&theme=onedark&column=5&margin-w=15&margin-h=25"/>
 </p>
