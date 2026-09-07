@@ -2,16 +2,15 @@
 
 ```console
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ root@github: ~/fauzora_profile                                                             ─ □ x │
+│ root@github: ~/nutchew_profile                                                            ─ □ x │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                                  │
-│            ░██████████                                                                           │
-│            ░██                                                                                   │
-│            ░██         ░██████   ░██    ░██ ░█████████  ░███████  ░██░████  ░██████              │
-│            ░█████████       ░██  ░██    ░██      ░███  ░██    ░██ ░███           ░██             │
-│            ░██         ░███████  ░██    ░██    ░███    ░██    ░██ ░██       ░███████             │
-│            ░██        ░██   ░██  ░██   ░███  ░███      ░██    ░██ ░██      ░██   ░██             │
-│            ░██         ░█████░██  ░█████░██ ░█████████  ░███████  ░██       ░█████░██            │
+│  ███╗   ██╗██╗   ██╗████████╗ ██████╗██╗  ██╗███████╗██╗    ██╗                                  │
+│  ████╗  ██║██║   ██║╚══██╔══╝██╔════╝██║  ██║██╔════╝██║    ██║                                  │
+│  ██╔██╗ ██║██║   ██║   ██║   ██║     ███████║█████╗  ██║ █╗ ██║                                  │
+│  ██║╚██╗██║██║   ██║   ██║   ██║     ██╔══██║██╔══╝  ██║███╗██║                                  │
+│  ██║ ╚████║╚██████╔╝   ██║   ╚██████╗██║  ██║███████╗╚███╔███╔╝                                  │
+│  ╚═╝  ╚═══╝ ╚═════╝    ╚═╝    ╚═════╝╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝                                   │
 │                                                                                                  │
 │                        [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% SYSTEM LOADED                   │
 │                                                                                                  │
@@ -24,10 +23,9 @@
 │  > Compiling output...                                                                           │
 │                                                                                                  │
 │  SUMMARY:                                                                                        │
-│     "Full-stack engineer with strong frontend specialization.                                    │
-│      Experienced in modern web tech, system design, and                                          │
-│      deploying scalable services. Passionate about building                                      │
-│      clean architectures, data-driven UX, and high-impact tools."                                │
+│     "Full-stack developer with a frontend-oriented mindset.                                      │
+│      Builds web applications, data-driven interfaces, and                                          │
+│      scalable services with an unhealthy attention to detail."                                  │
 │                                                                                                  │
 │  [✓] Summary generated successfully                                                              │
 │                                                                                                  │
@@ -40,21 +38,28 @@
 │                             `+oooo:                   Host: GitHub Profile                       │
 │                            `+oooooo:                  Kernel: 6.6.6-developer                    │
 │                            -+oooooo+:                 Uptime: ∞                                  │
-│                          `/:-:++oooo+:                Packages: npm, pip, cargo                  │
-│                         `/++++/+++++++:               Shell: zsh 5.9                             │
-│                        `/++++++++++++++:              Terminal: kitty                            │
-│                       `/+++ooooooooooooo/`            Theme: Dracula                             │
-│                      ./ooosssso++osssssso+`           Icons: Papirus-Dark                        │
-│                     .oossssso-````/ossssss+`          CPU: Ryzen 9 7950X                         │
-│                    -osssssso.      :ssssssso.         Memory: ████████░░ 80%                     │
+│                          `/:-:++oooo+:                Uptime: ∞                                  │
+│                         `/++++/+++++++:               Packages: npm, pip, cargo                  │
+│                        `/++++++++++++++:              Shell: zsh 5.9                             │
+│                       `/+++ooooooooooooo/`            Terminal: kitty                            │
+│                      ./ooosssso++osssssso+`           Theme: Dracula                             │
+│                     .oossssso-````/ossssss+`          Icons: Papirus-Dark                        │
+│                    -osssssso.      :ssssssso.         CPU: Ryzen 9 7950X                         │
 │                                                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ root@system:~$ cat /etc/identity.conf                                                            │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │  [user]                                                                                          │
-│      alias           = fauzora                                                                   │
+│      alias           = nutchew                                                                   │
 │      class           = Full-Stack Developer                                                      │
 │      speciality      = Frontend-Oriented Architect                                               │
+│                                                                                                  │
+│  [personality]                                                                                   │
+│      0 = "Cool"                                                                                  │
+│      1 = "Quiet"                                                                                 │
+│      2 = "Unbothered"                                                                            │
+│      3 = "Judgmental"                                                                            │
+│      4 = "Serious about code"                                                                    │
 │                                                                                                  │
 │  [interests]                                                                                     │
 │      0 = "Open Source"                                                                           │
@@ -62,10 +67,15 @@
 │      2 = "Cybersecurity"                                                                         │
 │      3 = "System Design"                                                                         │
 │      4 = "Linux Ricing"                                                                          │
+│      5 = "Games"                                                                                 │
+│      6 = "Movies"                                                                                │
+│      7 = "Eating"                                                                                │
 │                                                                                                  │
 │  [runtime]                                                                                       │
-│      mood            = caffeinated && productive                                                 │
-│      coffee_level    = ████████░░ 80%                                                            │
+│      mood            = quiet && focused                                                          │
+│      patience        = limited                                                                   │
+│      interruptions   = rejected                                                                   │
+│      caffeine        = ████████░░ 80%                                                            │
 │                                                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ root@system:~$ ls -la ./skills/                                                                  │
@@ -108,13 +118,14 @@
 │  "In the matrix of code, we trust."                                                              │
 │   > Always be shipping                                                                           │
 │   > Break things, fix things, learn things                                                       │
-│   > Coffee && Code                                                                               │
+│   > If it works, don't touch it.                                                                │
 │                                                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ root@system:~$ exit                                                                              │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │                                      CONNECTION TERMINATED                                       │
 │                                      Thanks for visiting!                                        │
+│                                      — NUTCHEW                                                   │
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 <br/>
@@ -124,29 +135,29 @@
   <a href="https://www.linkedin.com/in/chairil-fauzi-firmansyah/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin" />
   </a>
-  <a href="https://www.instagram.com/fauzora_ig/" target="_blank">
+  <a href="https://www.instagram.com/nuts_chew/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
-  <a href="https://www.fauzora.tech">
-    <img src="https://img.shields.io/badge/fauzora.tech-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  <a href="https://www.nut_chew.com">
+    <img src="https://img.shields.io/badge/nut_chew.com-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fauzora&label=Visitors&color=006AFF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/fauzora?style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=Nut-Chew/&label=Visitors&color=006AFF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Nut-Chew/?style=for-the-badge&color=yellow" />
 </p>
 
 # Stats
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=fauzora&cc=282c34&tc=e5c07b&ic=98c379&bc=282c34"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=Nut-Chew/&cc=282c34&tc=e5c07b&ic=98c379&bc=282c34"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fauzora&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=Nut-Chew/&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <p align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=fauzora&column=5&margin-w=15&margin-h=25&no-bg=true&no-frame=true"/> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=fauzora&theme=onedark&column=5&margin-w=15&margin-h=25"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Nut-Chew/&column=5&margin-w=15&margin-h=25&no-bg=true&no-frame=true"/> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Nut-Chew/&theme=onedark&column=5&margin-w=15&margin-h=25"/>
 </p>
